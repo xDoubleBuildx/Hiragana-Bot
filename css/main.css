@@ -54,6 +54,7 @@ body {
     background-color: #2C2F33 !important
 }
 .heading {
+
     padding: 160px 50px !important;
     color: #fff !important;
     background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
@@ -205,7 +206,24 @@ color: rgba(255, 255, 255, 0.46) !important
     text-align: center !important;
     color: #a2a8bd !important
 }
-.homepageimg{
-width: 30%;
- margin-left: 973px;
- }
+ .inline-block {
+    width: 20%;
+     margin-left: 170px;
+   display: inline-block;
+}
+ .inline-block-2 {
+    width: 30%;
+     margin-left: 100px;
+   display: inline-block;
+}
+.inline-block-0 {
+    width: 30%;
+
+   display: inline-block;
+}
+.CenterImg{
+    width: 70%;
+     margin-left: 450px;
+     }
+
+
