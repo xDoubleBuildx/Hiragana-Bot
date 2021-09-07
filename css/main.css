@@ -48,7 +48,7 @@ body {
 }
 
 .btn-primary {
-    background-color: #AD91FF!important
+    background-color: #5663F7!important
 }
 .btn-secondary {
     background-color: #2C2F33 !important
@@ -222,8 +222,8 @@ color: rgba(255, 255, 255, 0.46) !important
    display: inline-block;
 }
 .CenterImg{
-    width: 70%;
-     margin-left: 450px;
+    width: 40%;
+     margin-left: 950px;
      }
 
 
